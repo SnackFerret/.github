@@ -9,5 +9,6 @@ More info: <a href="https://snackferret.studio">snackferret.studio</a>
 Check out our latest blog posts.
 
 <ul>
+  <li><a href="https://blog.snackferret.studio/2023/08/my-ebay-42u-blender-rendering-server-rack.html">SnackFerret Studio - My eBay £94 42U Blender Rendering Farm Server Rack</a> - October 20, 2023</li>
   <li><a href="https://blog.snackferret.studio/2022/09/rendering-servers.html">SnackFerret Studio - Rendering Servers</a> - September 29, 2022</li>
 </ul>
