@@ -1,7 +1,7 @@
 <h2>Welcome to SnackFerret Studio</h2>
 
 <ul>
-  <li>More info: <a href="https://snackferret.studio">snackferret.studio</a></li>
+  <li>More info: <a href="https://snackferret.studio">https://snackferret.studio</a></li>
   <li>Wiki info: <a href="https://github.com/SnackFerret/Info/wiki">https://github.com/SnackFerret/Info/wiki</a></li>
 </ul>
 
