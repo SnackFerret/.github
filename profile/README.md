@@ -1,5 +1,7 @@
 <h2>Welcome to SnackFerret Studio</h2>
 
+![SnackFerret Studio Logo.](https://cdn.furrys.org/github/snackferret/images/SnackFerret_Logo_Banner.png)
+
 <ul>
   <li>More Info: <a href="https://snackferret.studio">https://snackferret.studio</a></li>
   <li>Wiki Docs: <a href="https://github.com/SnackFerret/docs/wiki">https://github.com/SnackFerret/docs/wiki</a></li>
