@@ -2,7 +2,7 @@
 
 <ul>
   <li>More info: <a href="https://snackferret.studio">https://snackferret.studio</a></li>
-  <li>Wiki info: <a href="https://github.com/SnackFerret/Info/wiki">https://github.com/SnackFerret/Info/wiki</a></li>
+  <li>Wiki info: <a href="https://github.com/SnackFerret/docs/wiki">https://github.com/SnackFerret/docs/wiki</a></li>
 </ul>
 
 * <b>Social: <a href="https://twitter.com/SnackFerret">Twitter</a> | <a href="https://bsky.app/profile/snackferret.studio">Bsky</a> | <a href="https://www.threads.net/@snackferret">Threads</a> | </b>
