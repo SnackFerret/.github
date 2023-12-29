@@ -7,6 +7,24 @@
   <li>Wiki Docs: <a href="https://github.com/SnackFerret/docs/wiki">https://github.com/SnackFerret/docs/wiki</a></li>
 </ul>
 
+<!-- [START BADGES] -->
+&nbsp;&nbsp;
+<p align="center" dir="auto">
+  <a href="https://www.linkedin.com/company/snackferret/">
+  <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-0a66c2?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/snackferret/">
+  <img alt="Static Badge" src="https://img.shields.io/badge/instagram-0a66c2?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@SnackFerret">
+  <img alt="Static Badge" src="https://img.shields.io/badge/youtube-0a66c2?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white"></a>
+  &nbsp;&nbsp;
+  <a href="https://sketchfab.com/snackferret/">
+  <img alt="Static Badge" src="https://img.shields.io/badge/sketchfab-0a66c2?&amp;style=for-the-badge&amp;logo=sketchfab&amp;logoColor=white"></a>
+</p>
+
+<!-- [END BADGES] -->
+
 * <b>Social: <a href="https://twitter.com/SnackFerret">Twitter</a> | <a href="https://bsky.app/profile/snackferret.studio">Bsky</a> | <a href="https://www.threads.net/@snackferret">Threads</a> | </b>
 
 <hr style="border: none; border-top: 1px solid grey;">
