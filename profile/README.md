@@ -11,16 +11,16 @@
 &nbsp;&nbsp;
 <p align="center" dir="auto">
   <a href="https://www.linkedin.com/company/snackferret/">
-  <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-0a66c2?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
+  <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-8b0000?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/snackferret/">
-  <img alt="Static Badge" src="https://img.shields.io/badge/instagram-0a66c2?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white"></a>
+  <img alt="Static Badge" src="https://img.shields.io/badge/instagram-8b0000?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white"></a>
   &nbsp;&nbsp;
   <a href="https://www.youtube.com/@SnackFerret">
-  <img alt="Static Badge" src="https://img.shields.io/badge/youtube-0a66c2?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white"></a>
+  <img alt="Static Badge" src="https://img.shields.io/badge/youtube-8b0000?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white"></a>
   &nbsp;&nbsp;
   <a href="https://sketchfab.com/snackferret/">
-  <img alt="Static Badge" src="https://img.shields.io/badge/sketchfab-0a66c2?&amp;style=for-the-badge&amp;logo=sketchfab&amp;logoColor=white"></a>
+  <img alt="Static Badge" src="https://img.shields.io/badge/sketchfab-8b0000?&amp;style=for-the-badge&amp;logo=sketchfab&amp;logoColor=white"></a>
 </p>
 
 <!-- [END BADGES] -->
