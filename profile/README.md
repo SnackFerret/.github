@@ -25,7 +25,7 @@
 
 <!-- [END BADGES] -->
 </br>
-* <b>Social: <a href="https://twitter.com/SnackFerret">Twitter</a> | <a href="https://bsky.app/profile/snackferret.studio">Bsky</a> | <a href="https://www.threads.net/@snackferret">Threads</a> | </b>
+* <b>Social: <a href="https://x.com/SnackFerret">X</a> | <a href="https://bsky.app/profile/snackferret.studio">Bsky</a> | <a href="https://www.threads.net/@snackferret">Threads</a> | </b>
 
 <hr style="border: none; border-top: 1px solid grey;">
 
