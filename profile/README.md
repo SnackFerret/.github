@@ -21,6 +21,9 @@
   &nbsp;&nbsp;
   <a href="https://sketchfab.com/snackferret/">
   <img alt="Static Badge" src="https://img.shields.io/badge/sketchfab-8b0000?&amp;style=for-the-badge&amp;logo=sketchfab&amp;logoColor=white"></a>
+  &nbsp;&nbsp;
+  <a href="https://steamcommunity.com/id/SnackFerret">
+  <img alt="Static Badge" src="https://img.shields.io/badge/steam-8b0000?&amp;style=for-the-badge&amp;logo=steam&amp;logoColor=white"></a>
 </p>
 
 <!-- [END BADGES] -->
