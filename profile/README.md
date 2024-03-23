@@ -6,6 +6,7 @@
 
 <ul>
   <li>More Info: <a href="https://snackferret.studio">https://snackferret.studio</a></li>
+  <li>Corp Info: <a href="https://snackferret.com">https://snackferret.com</a></li>
   <li>Wiki Docs: <a href="https://github.com/SnackFerret/docs/wiki">https://github.com/SnackFerret/docs/wiki</a></li>
 </ul>
 
