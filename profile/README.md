@@ -2,7 +2,6 @@
 <h3><p align="center">
   <b>Innovating Stories, Imaginating Passions!</b>
 </p></h3></br>
-<br>
 
 ![SnackFerret Studio Logo.](https://cdn.furrys.org/github/snackferret/images/snackferret_github.png)
 
