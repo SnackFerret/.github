@@ -1,5 +1,7 @@
-<h2>Welcome to SnackFerret Studio</h2>
-<h3>Innovating Stories, Imaginating Passions!</h3>
+<h1><p align="center">Welcome to SnackFerret Studio</p></h1>
+<h3><p align="center">
+  <b>Innovating Stories, Imaginating Passions!</b>
+</p></h3></br>
 <br>
 
 ![SnackFerret Studio Logo.](https://cdn.furrys.org/github/snackferret/images/snackferret_github.png)
